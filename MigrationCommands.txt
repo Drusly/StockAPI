@@ -1,0 +1,2 @@
+Add-Migration init -> init yerine version
+Update-Database 20220101000000_InitialCreate -> Migration ismi vererek bu migration a kadar olan tüm deðiþiklikler geri alýnýr.
